@@ -24,3 +24,4 @@ Built with Flutter, this application leverages a modern and efficient tech stack
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
 ## App Preview
+![Screenshot_1718624039](https://github.com/Azymi4231/ProgrammingQuiz/assets/171338115/79075f4d-be11-482b-b146-508785c247eb)
